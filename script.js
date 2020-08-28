@@ -42,5 +42,3 @@ whatTime(15, '#fifteen');
 whatTime(16, '#sixteen');
 whatTime(17, '#seventeen');
 whatTime(18, '#eighteen');
-
-
