@@ -5,7 +5,7 @@ setInterval(function() {
     var rightNow = moment();
     var date =rightNow.format('MMMM Do YYYY, h:mm:ss a');
     today.text(date);
-}, 100);
+}, 1000);
 
 $(".saveBtn").click(function () { 
     $('input[type="text"]').each(function () { 
