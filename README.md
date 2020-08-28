@@ -8,7 +8,7 @@ Each block will be a different color depending on if it is the current hour <br 
 (red), a future hour(green), or the hour has passed(gray). It will save your <br /> inputs to local storage so you can go back to the page and change, erase, or<br />
 add new appointments.
 
-![image](images/scheduler.png
+![image](images/scheduler.png)
 
 ## Installation
 
