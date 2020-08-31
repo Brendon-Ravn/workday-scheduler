@@ -1,6 +1,5 @@
 # Workday Scheduler
-This was a homework assignment to create a planner or scheduler for your workday.<br />I had a lot of fun with this one. There were a few places I had to ask for <br />
-outside help but I eventually got it figured out.
+This is an app for a planner or scheduler for your workday.<br />I had a lot of fun with this one.
 
 ## Usage
 When you open the scheduler it will have hour blocks for your work day.<br />
